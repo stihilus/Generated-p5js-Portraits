@@ -10,7 +10,7 @@ Spiral Portrait: https://editor.p5js.org/leftlife/sketches/NTHcCdD5V
 ![canvas15](https://user-images.githubusercontent.com/20823082/67036212-7cb29480-f11b-11e9-9756-3696aed5418d.png)
 Dotted Portrait: https://editor.p5js.org/leftlife/sketches/9IYs65ObP
 
-![canvas19](https://user-images.githubusercontent.com/20823082/67036267-9522af00-f11b-11e9-87d3-6872f20fbc8f.png)
+![canvas19](https://user-images.githubusercontent.com/20823082/67036267-9522af00-f11b-11e9-87d3-6872f20fbc8f.png) <br>
 Drawing Portrait: https://editor.p5js.org/leftlife/sketches/NHwUjX0kC
 
 ![canvas3](https://user-images.githubusercontent.com/20823082/67036360-c4d1b700-f11b-11e9-8222-c87fc6548188.png)
