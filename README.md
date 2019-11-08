@@ -20,7 +20,7 @@ Squaris Portrait: https://editor.p5js.org/leftlife/sketches/lCAvf6MBT
 Mosaic Portrait: https://editor.p5js.org/leftlife/sketches/cFD-TFQqe
 
 ![Generative_Portraits_14](https://user-images.githubusercontent.com/20823082/68507074-5e980a00-026b-11ea-95f2-8affaba2dbf7.jpg)
-Typewriter Drawings: https://editor.p5js.org/leftlife/sketches/ZY2tpVo-T
+goto10: https://editor.p5js.org/leftlife/sketches/uHR-E38N4
 
 <img width="517" alt="Screenshot 2019-11-08 at 21 05 55" src="https://user-images.githubusercontent.com/20823082/68507165-92732f80-026b-11ea-91e1-59e99f942f06.png">
-goto10: https://editor.p5js.org/leftlife/sketches/uHR-E38N4
+Typewriter Drawings: https://editor.p5js.org/leftlife/sketches/ZY2tpVo-T
